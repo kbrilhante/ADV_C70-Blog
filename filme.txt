@@ -1,0 +1,31 @@
+    <!-- Aula 70 -->
+    <div class="container">
+        <h2 class="page-header" id="filmes">Críticas de Filmes</h2>
+        <div class="filme">
+            <div class="filmesHead bg-dark text-white" data-bs-toggle="collapse" data-bs-target="#filme1">
+                <span class="fa-solid fa-film"></span>
+                Homem Aranha de Volta pra Casa
+                <i class="fas fa-sort-down"></i>
+            </div>
+            <div id="filme1" class="collapse">
+                <div class="filmesBody">
+                    <img class="img-fluid img-thumbnail" src="">
+                    <h5 class="text-success text-capitalize">
+                        A pipoca tava boa!
+                        <span class="fa-solid fa-star"></span>
+                        <span class="fa-solid fa-star"></span>
+                        <span class="fa-solid fa-star"></span>
+                        <span class="fa-solid fa-star"></span>
+                        <span class="fa-solid fa-star-half-stroke"></span>
+                    </h5>
+                    <p>
+                        Cat ipsum dolor sit amet, himalayan for leopard. Thai bobcat bengal. Sphynx bobcat balinese and ragdoll. Thai savannah grimalkin. Norwegian forest tom for mouser or cheetah. Cheetah himalayan siberian. Himalayan puma. Lynx lion yet tabby savannah singapura. American bobtail russian blue tabby thai, balinese . American bobtail norwegian forest, and balinese kitty yet tiger but turkish angora. Siberian tomcat cornish rex scottish fold so cornish rex but birman. Munchkin cheetah but himalayan. Kitten. Siamese panther bengal so munchkin. Lion american bobtail or devonshire rex for russian blue. Bombay. Singapura persian. Tom siamese and egyptian mau yet manx. Maine coon lion yet persian and maine coon. Thai tomcat for siamese burmese.
+                        <br>
+                        Bengal himalayan or devonshire rex. Mouser ragdoll. Turkish angora birman tabby ocelot yet siberian and russian blue so tabby. American bobtail grimalkin so russian blue. Havana brown himalayan. Tom devonshire rex or ocelot and thai munchkin. Puma ragdoll. Panther ragdoll or turkish angora. Maine coon birman ragdoll or jaguar donskoy.
+                        <br>
+                        Siamese cornish rex munchkin siberian yet norwegian forest or kitty. Tomcat. Tiger jaguar for american bobtail so panther ocicat. Tabby. Munchkin burmese but puma tabby kitty. Ocicat norwegian forest american bobtail but tabby siberian but norwegian forest. Puma ocelot panther. Tiger cougar. Mouser donskoy donskoy.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
